@@ -1386,7 +1386,7 @@ await m.reply('𝐑𝐞𝐦𝐨𝐯𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮
  case 'sc': case 'script': case 'repo':
 
  client.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/53077a0e00d6bda32a46b.jpg` }, caption: 
-`👋🏻 Hi *${pushname}*,You can deploy 𝘼𝙈𝙄 𝐁𝐎𝐓 using the GitHub link below🗿\n\nFork and give us a star✨.\n\n https://github.com/Hamingtonmusyoki/Ami-ai\n\nEnjoy and have fun with the bot🗿...\n\nUse the link below to pair 𝘼𝙈𝙄_𝐀𝐈 without scanning any qr code\n\n [https://replit.com/@Hamingtonmusyoki/Pairing-Ami]\n\nType ${prefix}Tutorial and follow the steps if you dont know how to deploy the bot\n\n           Made by 〄༒𝐇𝐀𝐌𝐌𝐘➳ᴹᴿ᭄` });
+`👋🏻 Hi *${pushname}*,You can deploy 𝘼𝙈𝙄 𝐁𝐎𝐓 using the GitHub link below🗿\n\nFork and give us a star✨.\n\n https://github.com/Hamingtonmusyoki/Ami-ai\n\nEnjoy and have fun with the bot🗿...\n\nUse the link below to pair 𝘼𝙈𝙄_𝐀𝐈 without scanning any qr code\n\n [https://replit.com/@Hechem254/Pairing-Ami]\n\nType ${prefix}Tutorial and follow the steps if you dont know how to deploy the bot\n\n           Made by 〄༒𝐇𝐀𝐌𝐌𝐘➳ᴹᴿ᭄` });
 
    break;
                                                   
@@ -2032,7 +2032,7 @@ break;
 case "tutorial": case "deploy": { 
 
 	 await loady ()
-                 client.sendMessage(m.chat, {video: fs.readFileSync('./Tutorial video.mp4'), caption: `╭════〘 𖤍 𝘼𝙈𝙄 𖤍 〙═⊷⏣\n┃⭓╭──────────────┉◕\n┃⬬│ 𝗢𝘄𝗻𝗲𝗿 :〄༒𝐇𝐀𝐌𝐌𝐘➳ᴹᴿ᭄\n┃⭓│ 𝗨𝘀𝗲𝗿 : ${m.pushName}︎︎\n┃⬬│ 𝗥𝘂𝗻𝘁𝗶𝗺𝗲 :${runtime(process.uptime())}\n┃⭓│ 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : 𝐋𝐢𝐧𝐮𝐱\n┃⬬│ 𝗥𝗮𝗺 : 64GB of 256GB\n┃⭓│ 𝐕𝐞𝐫𝐬𝐢𝐨𝐧: 𝐯𝟏.𝟎.𝟏\n┃⬬│ 𝗣𝗿𝗲𝗳𝗶𝘅 : ${prefix}\n┃⭓│ 𝗦𝗽𝗲𝗲𝗱 :  *${dreadedspeed.toFixed(4)}* 𝐌𝐬\n┃⬬│\n┃⭓│▎▍▌▌▉▏▎▌▉▐▏▌\n┃⬬│▎▍▌▌▉▏▎▌▉▐▏▌\b┃⭓│ ⬬𝘼𝙈𝙄_𝘼𝙡⭓\n┃⛥│\n┃╰┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉⏣\n╰─────────────────⏣\n╭════✘⭓𝗧𝗨𝗧𝗢𝗥𝗜𝗔𝗟⭓✘════⊷⏣\n\n✘𝐓𝐨 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐡𝐞 𝐁𝐨𝐭, 𝐌𝐚𝐤𝐞 𝐒𝐮𝐫𝐞 𝐓𝐡𝐚𝐭 𝐘𝐨𝐮 𝐇𝐚𝐯𝐞 𝐀 𝐆𝐢𝐭𝐡𝐮𝐛 𝐀𝐜𝐜𝐨𝐮𝐧𝐭 𝐀𝐧𝐝 𝐀 𝐁𝐢𝐥𝐥𝐞𝐝 𝐇𝐞𝐫𝐨𝐤𝐮 𝐀𝐜𝐜𝐨𝐮𝐧𝐭 𝐓𝐡𝐞𝐧 𝐅𝐨𝐥𝐥𝐨𝐰 𝐓𝐡𝐞 𝐒𝐭𝐞𝐩𝐬 𝐛𝐞𝐥𝐨𝐰.\n\n➫𝐎𝐛𝐭𝐚𝐢𝐧 𝐀 𝐏𝐚𝐢𝐫𝐢𝐧𝐠 𝐂𝐨𝐝𝐞 𝐓𝐨 𝐋𝐢𝐧𝐤 𝐓𝐡𝐞 𝐁𝐨𝐭 𝐈𝐧𝐭𝐨 𝐘𝐨𝐮𝐫 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐀𝐜𝐜𝐨𝐮𝐧𝐭 𝐔𝐬𝐢𝐧𝐠 𝐭𝐡𝐞 𝐋𝐢𝐧𝐤 𝐁𝐞𝐥𝐨𝐰.\n➥[https://replit.com/@Hamingtonmusyoki/Pairing-Ami].\n\n➫𝐅𝐨𝐫𝐤 𝐓𝐡𝐞 𝘼𝙈𝙄_𝘼𝙡 𝐑𝐞𝐩𝐨 𝐮𝐬𝐢𝐧𝐠 𝐭𝐡𝐞 𝐥𝐢𝐧𝐤 𝐛𝐞𝐥𝐨𝐰.\n➥[https://github.com/Hamingtonmusyoki/Ami-ai/fork].\n\n➫𝐀𝐟𝐭𝐞𝐫 𝐅𝐨𝐫𝐤𝐢𝐧𝐠, 𝐅𝐨𝐥𝐥𝐨𝐰 𝐔𝐩 𝐓𝐡𝐞 𝐒𝐭𝐞𝐩𝐬 𝐈𝐧 𝐓𝐡𝐞 𝐕𝐢𝐝𝐞𝐨, 𝐈𝐨𝐧 𝐇𝐚𝐯𝐞 𝐓𝐡𝐞 𝐓𝐢𝐦𝐞 𝐓𝐨 𝐄𝐱𝐩𝐥𝐚𝐢𝐧 𝐈𝐭 𝐀𝐥𝐥 𝐁𝐲 𝐓𝐲𝐩𝐢𝐧𝐠😁...\n✘𝐈𝐧𝐜𝐚𝐬𝐞 𝐘𝐨𝐮 𝐀𝐫𝐞 𝐅𝐚𝐜𝐢𝐧𝐠 𝐌𝐚𝐣𝐨𝐫 𝐃𝐢𝐟𝐟𝐢𝐜𝐮𝐥𝐭𝐢𝐞𝐬 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐕𝐢𝐚. \n  ✫wa.me/254799384249.\n\n𝐓𝐡𝐞 𝐕𝐢𝐝𝐞𝐨 𝐈𝐬 𝐉𝐮𝐬𝐭 22𝐌𝐛𝐬, 𝐃𝐨𝐧𝐭 𝐁𝐞 𝐃𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐁𝐲 𝐓𝐡𝐞 𝐃𝐢𝐩𝐥𝐚𝐲 𝐎𝐟 10𝐆𝐛😬\n\n            𖤍 𝘼𝙈𝙄 𖤍 2024®`,fileLength: "9999999999"}, { quoted: fcontact });
+                 client.sendMessage(m.chat, {video: fs.readFileSync('./Tutorial video.mp4'), caption: `╭════〘 𖤍 𝘼𝙈𝙄 𖤍 〙═⊷⏣\n┃⭓╭──────────────┉◕\n┃⬬│ 𝗢𝘄𝗻𝗲𝗿 :〄༒𝐇𝐀𝐌𝐌𝐘➳ᴹᴿ᭄\n┃⭓│ 𝗨𝘀𝗲𝗿 : ${m.pushName}︎︎\n┃⬬│ 𝗥𝘂𝗻𝘁𝗶𝗺𝗲 :${runtime(process.uptime())}\n┃⭓│ 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : 𝐋𝐢𝐧𝐮𝐱\n┃⬬│ 𝗥𝗮𝗺 : 64GB of 256GB\n┃⭓│ 𝐕𝐞𝐫𝐬𝐢𝐨𝐧: 𝐯𝟏.𝟎.𝟏\n┃⬬│ 𝗣𝗿𝗲𝗳𝗶𝘅 : ${prefix}\n┃⭓│ 𝗦𝗽𝗲𝗲𝗱 :  *${dreadedspeed.toFixed(4)}* 𝐌𝐬\n┃⬬│\n┃⭓│▎▍▌▌▉▏▎▌▉▐▏▌\n┃⬬│▎▍▌▌▉▏▎▌▉▐▏▌\b┃⭓│ ⬬𝘼𝙈𝙄_𝘼𝙡⭓\n┃⛥│\n┃╰┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉⏣\n╰─────────────────⏣\n╭════✘⭓𝗧𝗨𝗧𝗢𝗥𝗜𝗔𝗟⭓✘════⊷⏣\n\n✘𝐓𝐨 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐡𝐞 𝐁𝐨𝐭, 𝐌𝐚𝐤𝐞 𝐒𝐮𝐫𝐞 𝐓𝐡𝐚𝐭 𝐘𝐨𝐮 𝐇𝐚𝐯𝐞 𝐀 𝐆𝐢𝐭𝐡𝐮𝐛 𝐀𝐜𝐜𝐨𝐮𝐧𝐭 𝐀𝐧𝐝 𝐀 𝐁𝐢𝐥𝐥𝐞𝐝 𝐇𝐞𝐫𝐨𝐤𝐮 𝐀𝐜𝐜𝐨𝐮𝐧𝐭 𝐓𝐡𝐞𝐧 𝐅𝐨𝐥𝐥𝐨𝐰 𝐓𝐡𝐞 𝐒𝐭𝐞𝐩𝐬 𝐛𝐞𝐥𝐨𝐰.\n\n➫𝐎𝐛𝐭𝐚𝐢𝐧 𝐀 𝐏𝐚𝐢𝐫𝐢𝐧𝐠 𝐂𝐨𝐝𝐞 𝐓𝐨 𝐋𝐢𝐧𝐤 𝐓𝐡𝐞 𝐁𝐨𝐭 𝐈𝐧𝐭𝐨 𝐘𝐨𝐮𝐫 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐀𝐜𝐜𝐨𝐮𝐧𝐭 𝐔𝐬𝐢𝐧𝐠 𝐭𝐡𝐞 𝐋𝐢𝐧𝐤 𝐁𝐞𝐥𝐨𝐰.\n➥[https://replit.com/@Hechem254/Pairing-Ami].\n\n➫𝐅𝐨𝐫𝐤 𝐓𝐡𝐞 𝘼𝙈𝙄_𝘼𝙡 𝐑𝐞𝐩𝐨 𝐮𝐬𝐢𝐧𝐠 𝐭𝐡𝐞 𝐥𝐢𝐧𝐤 𝐛𝐞𝐥𝐨𝐰.\n➥[https://github.com/Hamingtonmusyoki/Ami-ai/fork].\n\n➫𝐀𝐟𝐭𝐞𝐫 𝐅𝐨𝐫𝐤𝐢𝐧𝐠, 𝐅𝐨𝐥𝐥𝐨𝐰 𝐔𝐩 𝐓𝐡𝐞 𝐒𝐭𝐞𝐩𝐬 𝐈𝐧 𝐓𝐡𝐞 𝐕𝐢𝐝𝐞𝐨, 𝐈𝐨𝐧 𝐇𝐚𝐯𝐞 𝐓𝐡𝐞 𝐓𝐢𝐦𝐞 𝐓𝐨 𝐄𝐱𝐩𝐥𝐚𝐢𝐧 𝐈𝐭 𝐀𝐥𝐥 𝐁𝐲 𝐓𝐲𝐩𝐢𝐧𝐠😁...\n✘𝐈𝐧𝐜𝐚𝐬𝐞 𝐘𝐨𝐮 𝐀𝐫𝐞 𝐅𝐚𝐜𝐢𝐧𝐠 𝐌𝐚𝐣𝐨𝐫 𝐃𝐢𝐟𝐟𝐢𝐜𝐮𝐥𝐭𝐢𝐞𝐬 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐕𝐢𝐚. \n  ✫wa.me/254799384249.\n\n𝐓𝐡𝐞 𝐕𝐢𝐝𝐞𝐨 𝐈𝐬 𝐉𝐮𝐬𝐭 22𝐌𝐛𝐬, 𝐃𝐨𝐧𝐭 𝐁𝐞 𝐃𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐁𝐲 𝐓𝐡𝐞 𝐃𝐢𝐩𝐥𝐚𝐲 𝐎𝐟 10𝐆𝐛😬\n\n            𖤍 𝘼𝙈𝙄 𖤍 2024®`,fileLength: "9999999999"}, { quoted: fcontact });
 	}
 break;
 
@@ -2040,7 +2040,7 @@ case "bot":
 
 	await load ()
                  client.sendMessage(m.chat, { video: { url: 'https://telegra.ph/file/d0332c01f0dd8c3381dc0.mp4' }, caption: `▔▔▔▔▔╠ ⛥𝗕𝗢𝗧 𝗜𝗡𝗙𝗢⛥ ╣▔▔▔▔▔\n◉𝐂𝐫𝐞𝐚𝐭𝐨𝐫 𝐍𝐚𝐦𝐞 : *ꪶ
-		 ༒𝐇𝐀𝐌𝐌𝐘➳ᴹᴿ᭄◎𝐂𝐫𝐞𝐚𝐭𝐨𝐫 𝐍𝐮𝐦𝐛𝐞𝐫 : *wa.me/254799384249*\n◉𝐁𝐨𝐭 𝐆𝐫𝐨𝐮𝐩 : *𖤍 𝘼𝙈𝙄 𖤍*\n◎𝐒𝐩𝐞𝐞𝐝 : *${dreadedspeed.toFixed(4)}* 𝐌𝐬\n◉𝐔𝐬𝐞𝐫 : ${m.pushName}\n◎𝐁𝐨𝐭 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 : *1.0.1*\n◉𝐁𝐨𝐭 𝐍𝐚𝐦𝐞 : 𝘼𝙈𝙄_𝘼𝙡\n◎𝐏𝐫𝐞𝐟𝐢𝐱 : ${prefix}\n◉𝐓𝐲𝐩𝐞 𝐁𝐚𝐲𝐥𝐢𝐞𝐬 : 𝗖𝗮𝘀𝗲\n◎𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞 : *github.com/Fortunatusmokaya/DREADED-GPT-AI*\n◉𝐔𝐩𝐭𝐢𝐦𝐞 : ⏳ *${runtime(process.uptime())}*\n\n▭▬▭▬▭▬▭▬▭▬▭▬▭▬▬▭\n    ⭓𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 𖤍 𝘼𝙈𝙄 𖤍⬣\n▬▭▬▭▬▭▬▭▬▭▬▭▬▬▭▬`,gifPlayback: true }, { quoted: fcontact });
+		 ༒𝐇𝐀𝐌𝐌𝐘➳ᴹᴿ᭄◎𝐂𝐫𝐞𝐚𝐭𝐨𝐫 𝐍𝐮𝐦𝐛𝐞𝐫 : *wa.me/254799384249*\n◉𝐁𝐨𝐭 𝐆𝐫𝐨𝐮𝐩 : *𖤍 𝘼𝙈𝙄 𖤍*\n◎𝐒𝐩𝐞𝐞𝐝 : *${dreadedspeed.toFixed(4)}* 𝐌𝐬\n◉𝐔𝐬𝐞𝐫 : ${m.pushName}\n◎𝐁𝐨𝐭 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 : *1.0.1*\n◉𝐁𝐨𝐭 𝐍𝐚𝐦𝐞 : 𝘼𝙈𝙄_𝘼𝙡\n◎𝐏𝐫𝐞𝐟𝐢𝐱 : ${prefix}\n◉𝐓𝐲𝐩𝐞 𝐁𝐚𝐲𝐥𝐢𝐞𝐬 : 𝗖𝗮𝘀𝗲\n◎𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞 : *github.com/Hamingtonmusyoki/Ami-AI*\n◉𝐔𝐩𝐭𝐢𝐦𝐞 : ⏳ *${runtime(process.uptime())}*\n\n▭▬▭▬▭▬▭▬▭▬▭▬▭▬▬▭\n    ⭓𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 𖤍 𝘼𝙈𝙄 𖤍⬣\n▬▭▬▭▬▭▬▭▬▭▬▭▬▬▭▬`,gifPlayback: true }, { quoted: fcontact });
 
 break;
 
@@ -2149,7 +2149,7 @@ client.sendMessage(from, buttonMessage, { quoted: m })
    fs.unlinkSync(media); 
    if (err) throw err 
    let buffer = fs.readFileSync(mokaya); 
-   client.sendMessage(m.chat, { image: buffer, caption: `*𝐂𝐨𝐧𝐯𝐞𝐫𝐭𝐞𝐝 𝐛𝐲 𝐃𝐑𝐄𝐗_𝐀𝐈🗿*`}, { quoted: m }) 
+   client.sendMessage(m.chat, { image: buffer, caption: `*𖤍 𝘼𝙈𝙄 𖤍*`}, { quoted: m }) 
    fs.unlinkSync(mokaya); 
     }); 
     } 
@@ -2379,7 +2379,7 @@ async function getConversation() {
 
 // Handler for the "gpt" or "g" case
 async function handleGPTMessage(text, m) {
-  if (!text) return m.reply("Hello am 𝐃𝐑𝐄𝐗 an Ai developed by 𝕯⃟𝗮𝗿𝗸_𝗜𝗻𝘁𝗲𝗻𝘁⃟ꦿ⸼, how can I help you today?");
+  if (!text) return m.reply("Hello am 𝘼𝙈𝙄 an Ai developed by 〄༒𝐇𝐀𝐌𝐌𝐘➳ᴹᴿ᭄, how can I help you today?");
 
   const configuration = new Configuration({
     apiKey: setting,

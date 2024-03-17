@@ -1,6 +1,6 @@
 # 𝘼𝙈𝙄_𝐀𝐈
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝘼𝙈𝙄_𝐀𝐈;WHATSAPP+BOT;CREATED+BY+Hammy" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝘼𝙈𝙄_𝐀𝐈;WHATSAPP+BOT;CREATED+BY+〄༒𝐇𝐀𝐌𝐌𝐘➳ᴹᴿ᭄" alt="Typing SVG" /></a>
   </p>
   
 <p align="center">
@@ -18,7 +18,7 @@
 <a href="https://wa.me/254799384249yoh+〄༒𝐇𝐀𝐌𝐌𝐘➳ᴹᴿ᭄"><img title="Twitter" src="https://x.com/NSirm5?s=09?color=black&style=flat-square"></a>
 <a href="https://github.com/Hamingtonmusyoki/Ami-ai/network/members"><img title="Forks" src="https://img.shields.io/github/fork/Hamingtonmusyoki/Ami-ai?color=yellow&style=flat-square"></a>
 <a href="https://github.com/owlai01/drex-ai/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/drexmose/drex-ai?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/drexmose/drex-ai/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
+<a href="https://github.com/Hamingtonmusyoki/Ami-ai/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/owlai01/Owl-Ai/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/owlai01/drex-ai/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
 </p>
@@ -50,7 +50,7 @@ Linking/Pairing:
 
 
 ## ` Pair On reptil`
-<h2 align="left">  <a href="https://replit.com/@Hamingtonmusyokiofficial/Pairing-Ami"><img src="https://repl.it/badge/github/quiec/whatsasena" />
+<h2 align="left">  <a href="https://replit.com/@Hechem254/Pairing-Ami"><img src="https://repl.it/badge/github/quiec/whatsasena" />
 </a>
 </h2>
 
